@@ -12,7 +12,8 @@ Build a microservices-based dynamic DNS platform that provides free subdomains a
 5. Then, begin working on the todo items, marking them as complete as you go.
 6. On every step of progress, give me a high level explanation of what changes you have made.
 7. Make every task and code change you do as simple as possible. We want to avoid making any massive or complex changes. Every change should impact as little code as possible. Everything is about simplicity.
-8. Finally, add a review section to the todo.md file with a summary of the changes you made and any other relevant information.
+8. Remember to keep the `CLAUDE.md` up-to-date on each progression.
+9. Finally, add a review section to the todo.md file with a summary of the changes you made and any other relevant information.
 
 ## Architecture Summary
 
@@ -211,3 +212,6 @@ Remember:
 
 - User's custom domain name (Not supported yet)
     - User's domain name ownership verification must be required in order to support this feature
+
+## Memories
+- Keep the CLAUDE.md up-to-date on each progression.
